@@ -8,6 +8,8 @@ from bs4 import BeautifulSoup
 def get_stadium_coordinates(stadium_name):
     """Return the coordinates of a stadium.
 
+    SMALL CHANGE
+
     Parameters
     ----------
     name : string
